@@ -46,7 +46,7 @@ function myFunction(cap){
     .then((response)=>response.json())
 
     .then((response)=>{
-    alert(`City : ${cap}\nWeather : ${response.weather[0].main}\nDescription : ${response.weather[0].description}\nTempreture : ${response.main.temp}\nWind Speed : ${response.wind.speed}`)
+    alert(`City : ${cap}\nWeather : ${response.weather[0].main}\nDescription : ${response.weather[0].description}\nTemperature : ${response.main.temp}°C\nWind Speed : ${response.wind.speed} mph`)
     })
 
     .catch(()=>{
