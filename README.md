@@ -1,7 +1,7 @@
 <h1>RestCountries Weather API</h1>
 <p>This webpage is used to Check weather in RestCountries.</p>
 <p>In this page holds Restcountries Details and if want to check weather details in that country click "check for weather" button will show in popup window.</p>
-<p>I used Html,CSS,Bootstrap,Javascript DOM for developing this page.</p>
+<p>I used Html,CSS,Bootstrap,Javascript DOM using fetch API for developing this page.</p>
 <p>I attached Webpage Screenshots in below:</p>  <br>
 
 <h2>Website URL</h2>
